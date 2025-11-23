@@ -1,8 +1,23 @@
 T1110 – Brute Force
 Attackers attempt to gain access by trying multiple passwords.
 
+Detection:
+Prevention:
+Real world example:
+
+
 T1566 – Phishing
 Attackers deliver malicious emails to trick users into giving credentials or opening payloads.
 
+Detection:
+Prevention:
+Real world example:
+
+
 T1041 – Exfiltration Over C2 Channel
 Attackers send stolen data over a command-and-control channel to a remote server.
+
+Detection:
+Prevention:
+Real world example:
+
